@@ -1,0 +1,40 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: inline-block;
+  float: right;
+}
+
+.navbar {
+  float: left;
+  padding: 10px;
+}
+
+.main {
+  display: block;
+  width: auto;
+  height: auto;
+  position:absolute;
+  left:50%;
+  top:40%;
+  margin:-100px 0 0 -150px;
+}
+
+.search {
+  padding: 10px;
+}
+
+.searchbar {
+  display: block;
+  width: auto;
+  height: auto;
+  position:absolute;
+  right: -133px;
+  top:100%;
+  width: 500px;
+  height: 25px;
+}
