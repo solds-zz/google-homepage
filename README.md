@@ -1,1 +1,1 @@
-My first real project: rebuilding the Google homepage.
+A replica of the Google home page.
