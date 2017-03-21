@@ -1,1 +1,1 @@
-A replica of the Google home page.
+My interpretation of the Google homepage.
